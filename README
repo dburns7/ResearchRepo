@@ -1,0 +1,1 @@
+This repo has analysis code and templates for plotting various kinematic distributions. The input files are .root files generated in the chain madgraph->pythia->delphes.
