@@ -1,1 +1,15 @@
 This repo has analysis code and templates for plotting various kinematic distributions. The input files are .root files generated in the chain madgraph->pythia->delphes.
+
+Here are instructions for cloning this repo:
+git clone https://github.com/dburns7/ResearchRepo.git
+git checkout -b mydevel-branch
+
+
+Here are instructions for adding/updating files:
+git add FILENAME
+git commit -m 'text describing commit'
+git remote add origin https://github.com/dburns7/ResearchRepo.git
+git push origin master
+
+
+
